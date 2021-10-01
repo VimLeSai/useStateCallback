@@ -1,0 +1,33 @@
+{
+  "name": "use-state-callback",
+  "version": "1.0.0",
+  "description": "It is a simple custom hook on top of useState to provide a callback after the state is updated, just like in Class Component.",
+  "private":"true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VimLeSai/useStateCallback.git"
+  },
+  "keywords": [
+    "callback",
+    "react",
+    "state management",
+    "custom hooks"
+  ],
+  "author": "VimLeSai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VimLeSai/useStateCallback/issues"
+  },
+  "homepage": "https://github.com/VimLeSai/useStateCallback#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5"
+  },
+  "peerDependencies": {
+    "react": "16.8 - 17"
+  }
+}
